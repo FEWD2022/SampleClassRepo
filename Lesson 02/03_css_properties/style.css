@@ -4,6 +4,7 @@
 }
 
 .sample-font-size {
+  line-height: 20px;
   font-size: 30px;
 }
 
@@ -91,4 +92,14 @@
   color: #222;
   height: 600px;
   width: 600px;
+}
+
+
+
+section p {
+  color: pink;
+}
+
+div p {
+  color: green;
 }
